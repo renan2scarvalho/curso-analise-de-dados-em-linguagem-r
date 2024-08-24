@@ -18,7 +18,7 @@ ___
 
 ___
 
-1.  Fundamentos da Linguagem R
+2.  Fundamentos da Linguagem R
     1.  Preparação do Ambiente de Análise de Dados
     2.  Panorama da Linguagem R
         1.  Estruturas de dados
@@ -34,7 +34,7 @@ ___
 
 ____
 
-1. Fundamentos de Machine Learning 
+3. Fundamentos de Machine Learning 
    1. Algoritmos de Machine Learning
       1. Algoritmos de aprendizagem supervisionada
       2. Algoritmos de aprendizagem não-supervisionada
@@ -44,7 +44,7 @@ ____
 
 ___
 
-1. Análise de Dados na Prática
+4. Análise de Dados na Prática
    1. Aplicação da Linguagem R na Análise de Dados
       1. Analisando dados abertos de viagens a serviço
    2. Aplicação da Linguagem R na Análise de Dados
